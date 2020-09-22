@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-Good day!
-I am HongRyeol So who is interested in Android from South Korea.
-
-If you want to contact me, please leave me a message!
-
-
-
 
 <!--
 **HongRyeol/HongRyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
