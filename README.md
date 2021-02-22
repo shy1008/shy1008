@@ -9,6 +9,13 @@
 - 이펙티브 자바 Effective Java
 - 팀 개발을 위한 Git, GitHub 시작하기
 
+### My Education List :computer:
+- 모던 안드로이드 - 코틀린과 Jetpack 활용 (인프런)
+- Do it! 코틀린 프로그래밍 (udemy)
+- Android Jetpack, Clean Architecture & Testing Masterclass (udemy)
+- Android 앱 개발 올인원 패키지 Online (패스트캠퍼스)
+- 자바 입문, 자바 중급 (프로그래머스)
+
 <!--
 **HongRyeol/HongRyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
