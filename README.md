@@ -1,10 +1,13 @@
-### Hi there 👋
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-
+### Hi there 👋 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shy1008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### My BookList :book: 
+- 깡샘의 안드로이드 프로그래밍
+- 비전공자를 위한 이해할 수 있는 IT 지식
+- 학교에서 알려주지 않는 17가지 실무 개발 기술
+- 이펙티브 자바 Effective Java
+- 팀 개발을 위한 Git, GitHub 시작하기
 
 <!--
 **HongRyeol/HongRyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
