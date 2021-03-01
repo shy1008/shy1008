@@ -1,7 +1,8 @@
 ### Hi there 👋 
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shy1008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ### My BookList :book: 
 - 깡샘의 안드로이드 프로그래밍
 - 비전공자를 위한 이해할 수 있는 IT 지식
