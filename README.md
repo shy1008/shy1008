@@ -9,6 +9,7 @@
 - 학교에서 알려주지 않는 17가지 실무 개발 기술
 - 이펙티브 자바 Effective Java
 - 팀 개발을 위한 Git, GitHub 시작하기
+- 수제비 2021 정보처리기사
 
 ### My Education List :computer:
 - 모던 안드로이드 - 코틀린과 Jetpack 활용 (인프런)
@@ -16,6 +17,9 @@
 - Android Jetpack, Clean Architecture & Testing Masterclass (udemy)
 - Android 앱 개발 올인원 패키지 Online (패스트캠퍼스)
 - 자바 입문, 자바 중급 (프로그래머스)
+- 대기업 IT현직자와 함께 클라우드 AWS 구축부터 운영까지 실무 AtoZ (코멘토)
+- AWS iot Training
+
 
 <!--
 **HongRyeol/HongRyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
