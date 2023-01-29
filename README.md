@@ -1,24 +1,15 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">
+> 저는 20년도부터 실무를 시작했고, 안드로이드로 시작해서 ios,flutter 등 역량을 키워가고 있는 모바일 개발자 입니다.
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shy1008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### My BookList :book: 
-- 깡샘의 안드로이드 프로그래밍
-- 비전공자를 위한 이해할 수 있는 IT 지식
-- 학교에서 알려주지 않는 17가지 실무 개발 기술
-- 이펙티브 자바 Effective Java
-- 팀 개발을 위한 Git, GitHub 시작하기
-- 수제비 2021 정보처리기사
 
-### My Education List :computer:
-- 모던 안드로이드 - 코틀린과 Jetpack 활용 (인프런)
-- Do it! 코틀린 프로그래밍 (udemy)
-- Android Jetpack, Clean Architecture & Testing Masterclass (udemy)
-- Android 앱 개발 올인원 패키지 Online (패스트캠퍼스)
-- 자바 입문, 자바 중급 (프로그래머스)
-- 대기업 IT현직자와 함께 클라우드 AWS 구축부터 운영까지 실무 AtoZ (코멘토)
-- AWS iot Training
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hrso)](https://solved.ac/hrso)
+
+
+### Tech Stack
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
 
 <!--
