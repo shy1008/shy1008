@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">
-> 저는 20년도부터 실무를 시작했고, 안드로이드로 시작해서 ios,flutter 등 역량을 키워가고 있는 모바일 개발자 입니다.
+> 20년도부터 안드로이드로를 시작하여 ios,flutter 등 역량을 키워가고 있는 개발자 입니다.
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shy1008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
